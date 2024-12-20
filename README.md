@@ -24,9 +24,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ### Program:
 
-NAME:ILEVARASEN.S
+NAME: HARISH.S
 
-REG:24900688
+REG NO: 24000320
 
 ![Screenshot 2024-12-20 135910](https://github.com/user-attachments/assets/de6fb523-8532-410c-a11b-5ddb783823c2)
 
